@@ -1,4 +1,4 @@
-## Repository Photo of Algorithm and Data Structures Assignment
+## Repository Photo of Algorithm and Data Structures Assignments
 
 <pre>
 Modul 1 - Tipe Data
